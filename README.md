@@ -14,7 +14,7 @@
 
 https://github.com/taras131/autocomplete/tree/main/task_1_2
 
-Компонент Select:
+Задача 3 , - компонент Select:
 
 https://github.com/taras131/autocomplete/tree/main/src/components/select
 
