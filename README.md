@@ -10,9 +10,11 @@
 
 ### `npm run start`
 
+
 Задачи 1,2 находятся в папке task_1_2
 
 https://github.com/taras131/autocomplete/tree/main/task_1_2
+
 
 Задача 3 , - компонент Select:
 
