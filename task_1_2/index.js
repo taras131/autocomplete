@@ -29,7 +29,7 @@ const task11Result = (animals) => {
             generalAge += item.age
         }
     })
-    result.avgage = Math.floor(generalAge / animals.length)
+    result.avgage = Math.floor(generalAge / (result.dogs + result.cats))
     return result;
 };
 
